@@ -1,0 +1,28 @@
+Description (concept) for this project (Game)
+
+- full name: "Total Destruction 2025: Human Apocalypse"
+- Genre: Realtime-Strategy
+- 50 enemy units, 50 friendly units
+- campaign (~40 missions, based on script), will be story-based. 20 Missions on each side of enemy/friendly units
+- 10 unique animations for each unit (idle) & 10 animations for rest, total: 1000 animations for 100 total units
+- nextgen-animation engine (requires 1 lane/10)
+- 20 maps to choose from battling (standard battle)
+- user can choose friendly or enemy side
+- based on nextgen-software-rendering engine, no hardware accelleration
+- Fully Raytraced (approx. 1 Billion pixel-lights = target) => 4 lanes/10 required
+- target framerate: 60 fps
+- Nextgen-Soundengine for good vibes (1 lane/10 required)
+- Nextgen-AI (own custom AI-engine, based on scripting) 1 lane/10 required
+- some physics, like destruction of the ground & battlefield (1 lane/10 required)
+- single platform only
+- no lags, no latency,no input-lag!
+- no constant patches required. No install. game will be tiny (approx 100-500 Mbytes)
+- touchscreen-support targeted! (1 lane/10 required), mouse-support might be possible in future
+- resolution will be 720p or 1080p depending on how many ressources will be required for full raytracing
+- internet-support battle is not planned for now but might be possible in the future
+- parts of this game will run on assembler-routines
+- features realtime-hitboxes. there will be no "bad units" doing stuff what you don´t want. each enemy will have it´s own precise hitbox.
+- each unit you control will have it´s own AI. You don´t have to control "squads"
+- the framerate of 60 fps can only be guaranteed if the number of units on-screen doesn´t get higher than ~1000 units
+- because of very high ressources requirements for nextgen-AI-/animation-engine there will be no high-quality assets with HD-resolution for textures! You will have some "pixel"-textures here and there, this is also to make sure the game doesn´t occupy gbytes of space
+- game will use simple textures and standard-formats which look good enough, but won´t occupy too much space
