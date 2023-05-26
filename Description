@@ -8,8 +8,8 @@ Description (concept) for this project (Game)
 - nextgen-animation engine (requires 1 lane/10 of IBM Espresso WiiU processor = lane configured as OUTPUT)
 - 20 maps to choose from battling (standard battle)
 - user can choose friendly or enemy side
-- based on nextgen-software-rendering engine, no hardware accelleration used
-- Fully Raytraced (approx. 1 Billion pixel-lights = target) => 4 lanes/10 required (configured as OUTPUT)
+- based on nextgen-software-rendering engine, no hardware accelleration used, no GPU being used
+- Fully Raytraced (approx. 5 Billion pixel-lights = target) => 4 lanes/10 required (configured as OUTPUT)
 - target framerate: 60 fps
 - Nextgen-Soundengine for good vibes (1 lane/10 required, configured as OUTPUT)
 - Nextgen-AI (own custom AI-engine, based on scripting) 1 lane/10 required (configured as OUTPUT)
@@ -21,13 +21,17 @@ Description (concept) for this project (Game)
 - resolution will be 720p or 1080p depending on how many ressources will be required for full raytracing
 - internet-support battle is not planned for now but might be possible in the future
 - Many parts of this game will run on assembler-routines via JAVA-implementation
-- features realtime-hitboxes. there will be no "bad units" doing stuff what you don´t want. each enemy will have it´s own precise hitbox and will only do what you command it to do.
+- features precise realtime-hitboxes. there will be no "bad units" doing stuff what you don´t want. each enemy will have it´s own precise hitbox and will only do what you command it to do (requires 1 lane/10, will run together with the Raytracing-powered lanes)
 - each unit you control will have it´s own AI. You don´t have to control "squads"
 - the framerate of 60 fps can only be guaranteed if the number of units on-screen doesn´t get higher than ~1000 units
 - because of very high ressources requirements for nextgen-AI-/animation-engine there will be no high-quality assets with HD-resolution for textures! You will have some "pixel"-textures here and there, this is also to make sure the game doesn´t occupy gbytes of space
 - game will use simple textures and standard-formats which look good enough, but won´t occupy too much space
-- Game wil use a multithreaded complex code (6-threaded code, using all 10 cpu-buses of a WiiU´s Espresso chip, might become 7-threaded if game will make use of internet-connections for multiplayer online
+- Game will use a multithreaded complex code (6-threaded code, using all 10 cpu-buses of a WiiU´s Espresso chip, might become 7-threaded if game will make use of internet-connections for multiplayer online or if other features are added in the future (some Raytracing-downgrades will be required then)
 
-Game engine: JAVA, Java SDK 8/9
+Controls: Without an update the game will be playable on the WiiU Gamepad ONLY. You cannot use additional controllers (no local multiplayer), so there is no support for WiiU Pro Controller or other controllers and you cannot use a KB/M to control the units. iT´s a SINGLEPLAYER-game only for now!
+Reminder: Since WiiU´s "lanes"-system is statically linked only this means you cannot change this easily afterwords. Each game-update requires completely rewriting the game´s engine and pulling out a new complete game-file. You cannot update just simple functions like in every other game´s development.
+In order to use the new version then (with the update) you will have to download that and install it the same way like this and you will have to start it the same way as well.
 
-Release/ETA: somewhere in late 2025!
+Game engine: JAVA, Java SDK 8/9 (Created with Eclipse)
+
+Release/ETA: somewhere in late 2025! Maybe it will be delayed, that depends on the world´s situation and if can make it in time.
