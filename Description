@@ -35,3 +35,8 @@ In order to use the new version then (with the update) you will have to download
 Game engine: JAVA, Java SDK 8/9 (Created with Eclipse)
 
 Release/ETA: somewhere in late 2025! Maybe it will be delayed, that depends on the world´s situation and if can make it in time.
+
+Installation: This game is complex and cannot be simply started like other games on this platform or run from a disc. Instead it will require you to inject this game into the WiiU´s sysmenu and replace one small application there (overwrite files). So you will have to overwrite one unimportant application in order to be able to allways start this game (e.g. either you delete the "messageservice", or the Miiverse or the eshop (which no longer works as you know, so it´s useless either way except if you want to redownload your games it´s required). This game requires this kind of installation since it´s using super-rights on this machine and this game CANNOT start if you run it as a standard-application in the normal menu (big applicaction-icons).
+
+This game is designed to max out the processor of this wonderful machine. and this is the only way to use advanced AI (custom engine)/advanced cpu-physics (also custom engine) and advanced music (custom) and run them all on the same processor-core.
+This game will only use and support the big cpu-core of "Espresso" of the WiiU. And this is also why there is no support for additional controllers.
