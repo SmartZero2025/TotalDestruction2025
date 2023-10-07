@@ -1,0 +1,26 @@
+# TotalDestruction2025
+RTS/ Deep Core Strategy game for WiiU platform, name: Total Destruction 2025: Human Apocalypse
+
+^^In some cases this game will 100% lead to overheating of your WiiUs, if you do have any kind of MODDING applied to your machines (Such as the newly found method of upclocked GPU needing more energy etc). So i am not responsible for any damage you do to your machine by running my application once it´s ready and if you have such mods/hacks installed that changes your hardware completely (Reminder: a higher clocked GPU leads to a lower GPU-life in general).
+
+This game is only intended for UNMODDED machines and it does NOT support/have any support for any CfW either. So be advised of this. This game will max out the processor of the WiiU and this means the full ~15 Watt TDP of the Espresso-chip will be used on just the big cpu-core since i will use all bandwidth there is free on this processor to drive my ai/physics, destruction and other stuff in my game. This game is my dream. And i do not condone to those, who risk damaging their WiiUs just for doing some fancy USB C/USB-bandwidth "upgrade"-modding because they think it will never damage their machines. The WiiU´s processor was never intended for such modding and there are good reasons this machine DOES NOT (and should never!) support USB 3 to begin with. There are good reasons why this "WiiU" machine should never support more than 0.4 Amps on the lines of the USB, which directly go to the processor. But: The risk is on everybody. Who wants to risk their WiiU processor´s death? Some people will never learn it. And for those people this warning is! You have been warned that this game/running this tiny code can lead to DESTRUCTION of your WiiU´s processor if you make a mistake.
+
+And i would not recommend even TRYING to start this application since it will lead to an immediate crash of your WiiU and/or severe overheating if your PSU is not an original one (75 Watts rated) and/or if you changed the cooling to a worse non-original cooling or if you have added GPU-overclocking via modding or did anything else custom to your machines. E.g. if you changed your USB 2.0 plugs to USB 3 via modding, you will severely damage the processor when you run my code. And that will be then your problem, not mine. I warned people here.
+
+Also be reminded. DO NEVER RUN my code/APPLICATION when it´s a) too hot in your country (above 40°C general temperatures or over 30°C in your room you run this machine in) or too hot in general and your machine has allready a too-abused fan. E.g. if you allready had WiiU-fan-problems or a halting fan in the past then better not try starting this masterpiece of code here since it could lead to your machine being damaged as well. So this is also something to look out for.
+
+Btw: for those that don´t know it yet: My next project, which aims to replicate "Zelda Breath of the Wild" in it´s REAL FORM (known as "Zelda WiiU" in 2012/2013) will also require the SAME installation-process this game here does and it will also use a similar/same engine.
+
+This project is called "Zelda U Re-Imagined" and replicates what Satoru Iwata INTENDED to do on this type of machine in the past when he talked about what this game features and does in the past (remember the words "Horses don`t run against trees"?). I aim to use my custom AI, custom Physics, custom destruction-engine and much more there as well. But this project has no ETA yet and it´s not running yet at all. "Zelda U Re-Imagined" is just a concept for now. It could be done until ~2030 though. But no guarantee since nobody knows what happens with the world untli 2030, right?
+
+Further notice:
+
+It might be, that my game/code can run with Cfw simultaneously as well. But. That will surely lead to severe stutter/overheating-issues and/or other bugs/weird behaviour since my game uses the OS-core and all banwidth it has to offer, and not the standard-cores meant for game-applications, so there will be NO FREE bandwidth while my game runs. So yeah, like i said: Thus i support not Cfw. My game will run just like it should and not as a big icon-application. Only possible with FULL SYSTEM Menu-application-integration.
+
+So that´s all notices and warnings for now. In the next code-renewing i will put this text here as a WARNING/Danger into the code as well (which was done here). Good luck to all those which in 2 years might be able to download my code and try it on their own. And: Happy gaming until then!
+
+(One last thing: This project is a TECH-Demo. Not a real game. It was never intended as a full blown game to begin with. Just as a technical showcase of what can be done with modern tech!
+i just decided to create a full game of it. But it will still allways remain a tech-demo. Remember other tech-demos of the past? This game will be quite similar to those.
+So don`t expect a highquality and awesome story or stuff like that.
+
+This game is about PERFECTION of GAMEPLAY (Retro/Arcade). It´s about what-can-be-done. and it´s about technical achievement and doing what others failed at doing in the past.)
