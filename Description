@@ -32,7 +32,7 @@ Controls: Without an update the game will be playable on the WiiU Gamepad ONLY. 
 Reminder: Since WiiU´s "lanes"-system is statically linked only this means you cannot change this easily afterwords. Each game-update requires completely rewriting the game´s engine and pulling out a new complete game-file. You cannot update just simple functions like in every other game´s development.
 In order to use the new version then (with the update) you will have to download that and install it the same way like this and you will have to start it the same way as well.
 
-Game engine: JAVA, Java SDK 8/9 (Created with Eclipse)
+Game engine: no longer running on JAVA, Java SDK 8/9 (Eclipse). The whole game will run on assembler-routines instead now!
 
 Release/ETA: somewhere in late 2025! Maybe it will be delayed, that depends on the world´s situation and if can make it in time.
 
