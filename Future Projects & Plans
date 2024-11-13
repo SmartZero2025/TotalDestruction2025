@@ -11,3 +11,5 @@ These are some planned near/far-Future projects, which might come after this gam
 7) Compiling-tool. Allows you to compile any application you want with 100s or thousands of supported formats and tools combined. So you cannot only compile WiiU-formats such as "RPX" or "RPL" or "Wuhb" etc, but this powerful Multiplatform Multi-Compiler would also allow you to compile any foreign format´s machine-code, such as for old ARM-cpus or for more modern ones, or for dotzens of other types of processors such as for Apple`s M1/M2/M3 or AMDs or Intels x86/X64 (or future iterations). It would be the world´s most-powerful and efficient compiler. It would compile the most-complex files such as browsers in just ~30 seconds, where other machines take hours, days or even a week for it.
 
 All these projects will not make use of the WiiU´s AMD Radeon-GPU and instead all run on SOFTWARE rendering only, since using the AMD Radeon GPU would be contra-productive to use (you induce too much latency if you use it, which hinders your execution-speed).
+
+Other projects: GTA III WiiU Optimized (patch/mod, nearly done)
